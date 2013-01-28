@@ -1,0 +1,2 @@
+class SubSubProduct < SubProduct
+end
